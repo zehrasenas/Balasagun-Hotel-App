@@ -1,0 +1,25 @@
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\bin\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.exe.config
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\bin\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.exe
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\bin\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.pdb
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.csproj.AssemblyReference.cache
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.Properties.Resources.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.csproj.GenerateResource.cache
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.csproj.CoreCompileInputs.cache
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.exe
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.pdb
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmAdminGiris.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmAnaForm.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmYeniMusteri.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmOdalar.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmMusteriler.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmGelirGider.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmStoklar.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun Pansiyon ve Dinlenme Tesisleri.csproj.ResolveComReference.cache
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmRadyoDinle.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmGazeteler.resources
+C:\Users\zhrsn\source\repos\Balasagun Pansiyon ve Dinlenme Tesisleri\Balasagun Pansiyon ve Dinlenme Tesisleri\obj\Debug\Balasagun_Pansiyon_ve_Dinlenme_Tesisleri.FrmSifreGuncelle.resources
